@@ -1,5 +1,5 @@
 ### Hi there 👋
-bilkent uni cs | freshman
+bilkent uni cs | sophmore
 
 <!--
 **zeynepbas/zeynepbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
